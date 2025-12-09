@@ -11,8 +11,9 @@
 .mtj.tmp/
 
 # all intellij file
-*.gradle
-*.idea
+*.gradle/
+*.idea/
+build/
 *.iml
 
 # Package Files #
