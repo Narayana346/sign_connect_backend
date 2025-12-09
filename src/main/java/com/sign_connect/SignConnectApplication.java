@@ -1,13 +1,13 @@
-package com.sign_connect.backend;
+package com.sign_connect;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BackendApplication {
+public class SignConnectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BackendApplication.class, args);
+		SpringApplication.run(SignConnectApplication.class, args);
 	}
 
 }

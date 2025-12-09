@@ -1,10 +1,10 @@
-package com.sign_connect.backend;
+package com.sign_connect;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendApplicationTests {
+class SignConnectApplicationTests {
 
 	@Test
 	void contextLoads() {
